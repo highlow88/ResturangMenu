@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ResturangMenu</string>
+    <string name="starter_menu">Krämig svampsoppa\nEn sammetslen blandning av färska svampar och örter, toppad med en snurra grädde. Serveras med varmt vitlöksbröd.\n\nBruschettatallrik\nKrispiga baguetteskivor toppade med tärnade tomater, basilika, vitlök och dryssade med balsamicoglasyr.\n\nSpenat- och kronärtskocksdipp\nEn rik blandning av spenat, kronärtskockor och krämiga ostar, serveras varm med krispiga tortillachips.</string>
+    <string name="main_menu">Grillad Filet Mignon\nEn saftig bit av mör filet mignon, kryddad med örter och grillad till perfektion. Serveras med pressad vitlökspotatis och sauterade grönsaker.\n\nMedelhavspasta\nLinguinepasta med soltorkade tomater, oliver, kapris och fetaost i en lätt citron- och olivoljasås.\n\nCitrusglaserad lax\nFärsk atlantlax filé marinerad i saftig citrusglasyr, grillad och serverad med quinoa pilaf och ångad sparris.</string>
+    <string name="dessert_menu">Dekadent chokladfondue\nRikig, smält choklad tillsammans med en mängd olika doppgodis som jordgubbar, marshmallows och bananskivor.\n\nKlassisk Tiramisu\nLager av kaffeindränkta ladyfingers och krämig mascarponeost, pudrad med kakaopulver.\n Bliss Cheesecake\nKrämig cheesecake toppad med ett mix av färska bär och en klick bärcoulis.</string>
+
+
+</resources>
+
